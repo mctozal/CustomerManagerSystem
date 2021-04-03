@@ -1,0 +1,12 @@
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Core.deps.json
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Core.dll
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Core.pdb
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.csprojAssemblyReference.cache
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.AssemblyInfo.cs
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.dll
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.pdb
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.dll
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.pdb
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.csproj.CopyComplete
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Core\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Core.csproj.CoreCompileInputs.cache

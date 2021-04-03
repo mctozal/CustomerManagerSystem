@@ -1,0 +1,11 @@
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.deps.json
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.dll
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Data.AssemblyInfoInputs.cache
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Data.AssemblyInfo.cs
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.runtimeconfig.json
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.runtimeconfig.dev.json
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Data.genruntimeconfig.cache
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\bin\Debug\netcoreapp3.1\CustomerManagementSystem.Data.pdb
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Data.dll
+C:\Repos\CustomerManagementSystem\CustomerManagementSystem.Data\obj\Debug\netcoreapp3.1\CustomerManagementSystem.Data.pdb
